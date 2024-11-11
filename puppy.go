@@ -1,6 +1,6 @@
 package puppy
 
-import "mymodules/mymodules/dog"
+import "github.com/schaudha/dog"
 
 func Bark() string {
 	return ("Bho!!")
